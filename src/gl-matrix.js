@@ -1,5 +1,5 @@
 /**
- * @fileoverview gl-matrix - High performance matrix and vector operations
+ * gl-matrix - High performance matrix and vector operations
  * @author Brandon Jones
  * @author Colin MacKenzie IV
  * @version 2.3.2
